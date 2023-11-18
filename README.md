@@ -15,4 +15,4 @@ Python GUI: The user interface is designed with Python, offering a simple and in
 Efficient Compression: The underlying C++ code employs well-established compression techniques to reduce file sizes while maintaining data integrity. Users can experience significant disk space savings with minimal effort.
 
 License:
-This project is licensed under the (Apache license 2.0). Please review the license file for more details.
+This project is licensed under the (Apache license 2.0).
