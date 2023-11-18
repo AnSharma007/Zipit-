@@ -1,0 +1,1 @@
+Huffman coding is a variable-length prefix coding algorithm used for lossless data compression.
